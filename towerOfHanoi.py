@@ -1,3 +1,4 @@
+#A python program which gives steps to move 3 discs from one tower to another
 def toh(n, A, B, C):
 	if n == 0:
 		return
